@@ -1234,13 +1234,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 2420,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-stand-lemon.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-stand-lemon.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111203_6a2a258e56a8e.jpg"
         }
       ],
       "sales": [
@@ -1254,7 +1254,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1263,8 +1263,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-sns-keychain-lemon",
@@ -1287,13 +1286,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 1595,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-sns-keychain-lemon.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-sns-keychain-lemon.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a2563ba786.jpg"
         }
       ],
       "sales": [
@@ -1307,7 +1306,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1316,8 +1315,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-mug",
@@ -1340,13 +1338,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 1980,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-mug.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-mug.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a264b2dcc9.jpg"
         }
       ],
       "sales": [
@@ -1360,7 +1358,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1369,8 +1367,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-mini-clock",
@@ -1393,13 +1390,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 4400,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-mini-clock.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-mini-clock.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111204_6a2a25b6cc0a4.jpg"
         }
       ],
       "sales": [
@@ -1413,7 +1410,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1422,8 +1419,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-mini-art",
@@ -1446,13 +1442,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 3190,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-mini-art.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-mini-art.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111204_6a2a25ab71fd5.jpg"
         }
       ],
       "sales": [
@@ -1466,7 +1462,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1475,8 +1471,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-microfiber-lemon",
@@ -1499,13 +1494,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 825,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-microfiber-lemon.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-microfiber-lemon.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111205_6a2a25ffccad1.jpg"
         }
       ],
       "sales": [
@@ -1519,7 +1514,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1528,8 +1523,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-memorial-art",
@@ -1552,13 +1546,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 16500,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-memorial-art.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-memorial-art.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/07061342_6a4b323a6dfc9.jpg"
         }
       ],
       "sales": [
@@ -1572,7 +1566,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1581,8 +1575,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-lottery-figure-lemon",
@@ -1605,13 +1598,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-lottery-figure-lemon.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-lottery-figure-lemon.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "bonus",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111158_6a2a24643cdef.jpg"
         }
       ],
       "sales": [
@@ -1625,7 +1618,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1658,12 +1651,12 @@
       "release_date": "2026-09-15",
       "list_price_yen": 715,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-holo-badge.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-holo-badge.webp",
-          "role": "lineup",
+          "role": "product",
           "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
         }
       ],
@@ -1678,7 +1671,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1687,8 +1680,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-fullgraphic-tshirt-lemon",
@@ -1711,13 +1703,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 7150,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-fullgraphic-tshirt-lemon.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-fullgraphic-tshirt-lemon.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a262f0e930.jpg"
         }
       ],
       "sales": [
@@ -1731,7 +1723,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1740,8 +1732,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-extra-large-tapestry-lemon",
@@ -1764,13 +1755,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 8800,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-extra-large-tapestry-lemon.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-extra-large-tapestry-lemon.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111200_6a2a24b627d29.jpg"
         }
       ],
       "sales": [
@@ -1784,7 +1775,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1793,8 +1784,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-diecut-board-lemon",
@@ -1817,13 +1807,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 6600,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-diecut-board-lemon.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-diecut-board-lemon.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111204_6a2a25d5b6e35.jpg"
         }
       ],
       "sales": [
@@ -1837,7 +1827,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1846,8 +1836,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-deskmat",
@@ -1870,13 +1859,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": 4400,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-deskmat.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-deskmat.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "product",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111206_6a2a2618669d1.jpg"
         }
       ],
       "sales": [
@@ -1890,7 +1879,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
@@ -1899,8 +1888,7 @@
         "甜点",
         "烧盐柠檬",
         "新规绘制"
-      ],
-      "notes": "当前使用明确包含烧盐柠檬的官方活动阵容图，柠檬单品图仍待逐步替换。"
+      ]
     },
     {
       "id": "thechara-anniversary2-bromide-bonus-lemon",
@@ -1923,13 +1911,13 @@
       "release_date": "2026-09-15",
       "list_price_yen": null,
       "official_status": "official",
-      "verification": "confirmed_text",
+      "verification": "confirmed_image",
       "images": [
         {
-          "path": "images/items/source-fab027407ca42b491bef.jpg",
+          "path": "images/items/thechara-anniversary2-bromide-bonus-lemon.jpg",
           "thumbnail_path": "images/thumbs/thechara-anniversary2-bromide-bonus-lemon.webp",
-          "role": "lineup",
-          "source_url": "https://www.gamers.co.jp/upload/save_image/06111202_6a2a25479a818.jpg"
+          "role": "bonus",
+          "source_url": "https://www.gamers.co.jp/upload/save_image/06111158_6a2a24716a48d.jpg"
         }
       ],
       "sales": [
@@ -1943,7 +1931,7 @@
         {
           "url": "https://www.gamers.co.jp/contents/event_fair/detail.php?id=7624",
           "type": "official",
-          "checked_at": "2026-10-04"
+          "checked_at": "2026-10-06"
         }
       ],
       "tags": [
