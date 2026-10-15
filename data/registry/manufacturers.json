@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "updated_at": "2026-10-10",
+  "updated_at": "2026-10-15",
   "manufacturers": [
     {
       "id": "akros",
@@ -319,6 +319,14 @@
       "name_ja": "ウッドボーイ",
       "aliases": [
         "有限会社ウッドボーイ"
+      ]
+    },
+    {
+      "id": "anican",
+      "name_zh": "AniCan",
+      "name_ja": "アニキャン",
+      "aliases": [
+        "株式会社アニキャン"
       ]
     }
   ]
